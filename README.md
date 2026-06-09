@@ -155,7 +155,7 @@ Shows:
 
 ## Auto Approval Email
 
-<img src="./loan_approval_email.json" width="1000"/>
+<img src="./loan_approval_workflow.json" width="1000"/>
 
 
 Automated approval notification sent to eligible applicants.
